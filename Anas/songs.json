@@ -1,179 +1,211 @@
 [{
-        "title": "The King of Limbs",
-        "songs": [{
-                "title": "Bloom",
-                "length": "5:15"
-            },
-            {
-                "title": "Morning Mr Magpie",
-                "length": "4:41"
-            },
-            {
-                "title": "Little by Little",
-                "length": "4:27"
-            },
-            {
-                "title": "Feral",
-                "length": "3:13"
-            },
-            {
-                "title": "Lotus Flower",
-                "length": "5:01"
-            },
-            {
-                "title": "Codex",
-                "length": "4:47"
-            },
-            {
-                "title": "Give Up the Ghost",
-                "length": "4:50"
-            },
-            {
-                "title": "Separator",
-                "length": "5:20"
-            }
-        ],
-        "description": "\n\tThe King of Limbs is the eighth studio album by English rock band Radiohead, produced by Nigel Godrich. It was self-released on 18 February 2011 as a download in MP3 and WAV formats, followed by physical CD and 12\" vinyl releases on 28 March, a wider digital release via AWAL, and a special \"newspaper\" edition on 9 May 2011. The physical editions were released through the band's Ticker Tape imprint on XL in the United Kingdom, TBD in the United States, and Hostess Entertainment in Japan.\n      "
+        "songs": " Little by Little",
+        "title": "Bloom",
+        "length": "5:15"
     },
     {
-        "title": "OK Computer",
-        "songs": [{
-                "title": "Airbag",
-                "length": "4:44"
-            },
-            {
-                "title": "Paranoid Android",
-                "length": "6:23"
-            },
-            {
-                "title": "Subterranean Homesick Alien",
-                "length": "4:27"
-            },
-            {
-                "title": "Exit Music (For a Film)",
-                "length": "4:24"
-            },
-            {
-                "title": "Let Down",
-                "length": "4:59"
-            },
-            {
-                "title": "Karma Police",
-                "length": "4:21"
-            },
-            {
-                "title": "Fitter Happier",
-                "length": "1:57"
-            },
-            {
-                "title": "Electioneering",
-                "length": "3:50"
-            },
-            {
-                "title": "Climbing Up the Walls",
-                "length": "4:45"
-            },
-            {
-                "title": "No Surprises",
-                "length": "3:48"
-            },
-            {
-                "title": "Lucky",
-                "length": "4:19"
-            },
-            {
-                "title": "The Tourist",
-                "length": "5:24"
-            },
-            {
-                "title": "Mysterons",
-                "length": "5:02"
-            },
-            {
-                "title": "Sour Times",
-                "length": "4:11"
-            },
-            {
-                "title": "Strangers",
-                "length": "3:55"
-            },
-            {
-                "title": "It Could Be Sweet",
-                "length": "4:16"
-            },
-            {
-                "title": "Wandering Star",
-                "length": "4:51"
-            },
-            {
-                "title": "It's a Fire",
-                "length": "3:49"
-            },
-            {
-                "title": "Numb",
-                "length": "3:54"
-            },
-            {
-                "title": "Roads",
-                "length": "5:02"
-            },
-            {
-                "title": "Pedestal",
-                "length": "3:39"
-            },
-            {
-                "title": "Biscuit",
-                "length": "5:01"
-            },
-            {
-                "title": "Glory Box",
-                "length": "5:06"
-            },
-            {
-                "title": "Silence",
-                "length": "4:58"
-            },
-            {
-                "title": "Hunter",
-                "length": "3:57"
-            },
-            {
-                "title": "Nylon Smile",
-                "length": "3:16"
-            },
-            {
-                "title": "The Rip",
-                "length": "4:29"
-            },
-            {
-                "title": "Plastic",
-                "length": "3:27"
-            },
-            {
-                "title": "We Carry On",
-                "length": "6:27"
-            },
-            {
-                "title": "Deep Water",
-                "length": "1:31"
-            },
-            {
-                "title": "Machine Gun",
-                "length": "4:43"
-            },
-            {
-                "title": "Small",
-                "length": "6:45"
-            },
-            {
-                "title": "Magic Doors",
-                "length": "3:32"
-            },
-            {
-                "title": "Threads",
-                "length": "5:45"
-            }
-        ],
-        "description": "\n\tOK Computer is the third studio album by the English alternative rock band Radiohead, released on 16 June 1997 on Parlophone in the United Kingdom and 1 July 1997 by Capitol Records in the United States. It marks a deliberate attempt by the band to move away from the introspective guitar-oriented sound of their previous album The Bends. Its layered sound and wide range of influences set it apart from many of the Britpop and alternative rock bands popular at the time and laid the groundwork for Radiohead's later, more experimental work.\n      "
+        "songs": " Little by Little",
+        "title": "Morning Mr Magpie",
+        "length": "4:41"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Little by Little",
+        "length": "4:27"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Feral",
+        "length": "3:13"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Lotus Flower",
+        "length": "5:01"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Codex",
+        "length": "4:47"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Give Up the Ghost",
+        "length": "4:50"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Separator",
+        "length": "5:20"
+    },
+
+    {
+        "songs": " Little by Little",
+        "title": "Airbag",
+        "length": "4:44"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Paranoid Android",
+        "length": "6:23"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Subterranean Homesick Alien",
+        "length": "4:27"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Exit Music (For a Film)",
+        "length": "4:24"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Let Down",
+        "length": "4:59"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Karma Police",
+        "length": "4:21"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Fitter Happier",
+        "length": "1:57"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Electioneering",
+        "length": "3:50"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Climbing Up the Walls",
+        "length": "4:45"
+    },
+    {
+        "title": "No Surprises",
+        "length": "3:48"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Lucky",
+        "length": "4:19"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "The Tourist",
+        "length": "5:24"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Mysterons",
+        "length": "5:02"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Sour Times",
+        "length": "4:11"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Strangers",
+        "length": "3:55"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "It Could Be Sweet",
+        "length": "4:16"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Wandering Star",
+        "length": "4:51"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "It's a Fire",
+        "length": "3:49"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Numb",
+        "length": "3:54"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Roads",
+        "length": "5:02"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Pedestal",
+        "length": "3:39"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Biscuit",
+        "length": "5:01"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Glory Box",
+        "length": "5:06"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Silence",
+        "length": "4:58"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Hunter",
+        "length": "3:57"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Nylon Smile",
+        "length": "3:16"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "The Rip",
+        "length": "4:29"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Plastic",
+        "length": "3:27"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "We Carry On",
+        "length": "6:27"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Deep Water",
+        "length": "1:31"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Machine Gun",
+        "length": "4:43"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Small",
+        "length": "6:45"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Magic Doors",
+        "length": "3:32"
+    },
+    {
+        "songs": " Little by Little",
+        "title": "Threads",
+        "length": "5:45"
     }
 ]
