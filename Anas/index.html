@@ -16,37 +16,30 @@
         <button type="submit" class="btn btn-primary" id="btn">Click Here</button>
         <hr>
 
-        <div id="content"></div>
+        <div id="content">
+
+        </div>
     </div>
     <script>
         let btn = document.getElementById('btn');
         btn.addEventListener('click', loadJson);
-        let content = document.getElementById('content');
+        let content = document.getElementById('content')
 
         function loadJson() {
             const ajSongs = new XMLHttpRequest();
             ajSongs.open("GET", "songs.json");
             ajSongs.onload = function() {
 
-                if (ajSongs.status == 0) {
+                if (ajSongs.status == 200) {
                     const songs = JSON.parse(ajSongs.responseText);
-                    for (const songs of ajSongs) {
+                    for (const song of songs) {
                         content.innerHTML += ` 
-                        
-                        
-                        <div class="card" style="width: 18rem;">
-                         <img src="..." class="card-img-top" alt="...">
-                          <div class="card-body">
-                         <h5 class="card-title">Title: ${title}</h5>
-                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
-                         </p>
-                         </div>
-                            <ul class="list-group list-group-flush">
-                             <li class="list-group-item">Songs: ${songs}</li>
-                             <li class="list-group-item">A second item</li>
-                            <li class="list-group-item">A third item</li>
-                         </ul>
-                    </div>
+                        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 gap-5 ">
+                        <br>
+                        <h3 class="text-info">Name: ${song.songs}</h3>
+                        <p class="text-warning">Title: ${song.title}</p>
+                        <p class="text-success">Length: ${song.length}</p>
+                        </div>
                     `;
 
 
