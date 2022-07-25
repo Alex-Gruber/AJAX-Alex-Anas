@@ -6,10 +6,58 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best Songs</title>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
 </head>
 
 <body>
+    <div class="container">
+        <h3>New Songs</h3>
+        <button type="submit" class="btn btn-primary" id="btn">Click Here</button>
+        <hr>
 
+        <div id="content"></div>
+    </div>
+    <script>
+        let btn = document.getElementById('btn');
+        btn.addEventListener('click', loadJson);
+        let content = document.getElementById('content');
+
+        function loadJson() {
+            const ajSongs = new XMLHttpRequest();
+            ajSongs.open("GET", "songs.json");
+            ajSongs.onload = function() {
+
+                if (ajSongs.status == 0) {
+                    const songs = JSON.parse(ajSongs.responseText);
+                    for (const songs of ajSongs) {
+                        content.innerHTML += ` 
+                        
+                        
+                        <div class="card" style="width: 18rem;">
+                         <img src="..." class="card-img-top" alt="...">
+                          <div class="card-body">
+                         <h5 class="card-title">Title: ${title}</h5>
+                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
+                         </p>
+                         </div>
+                            <ul class="list-group list-group-flush">
+                             <li class="list-group-item">Songs: ${songs}</li>
+                             <li class="list-group-item">A second item</li>
+                            <li class="list-group-item">A third item</li>
+                         </ul>
+                    </div>
+                    `;
+
+
+
+                    }
+                }
+            }
+            ajSongs.send();
+            // console.log(ajSongs);
+        }
+    </script>
 </body>
 
 </html>
